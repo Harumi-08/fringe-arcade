@@ -1,0 +1,11 @@
+node_modules/
+dist/server/
+dist/.openai/
+dist/drizzle/
+
+.env
+.env.*
+.dev.vars
+.openai/hosting.json
+.sites-runtime/
+.wrangler/
